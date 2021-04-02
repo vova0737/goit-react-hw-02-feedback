@@ -1,0 +1,11 @@
+.section {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  color: rgb(68, 57, 57)
+}
